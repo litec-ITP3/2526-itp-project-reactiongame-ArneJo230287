@@ -1,4 +1,4 @@
-# Project Diary - `<Team-Member NAME>`
+# Project Diary - `<BlinkRush>`
 
 > [!Note]
 > Write excessive reports here
@@ -9,3 +9,11 @@
 > - and everything else...
 >
 > This note can be deleted, and rename the file accordingly.
+
+- 23.02
+    - grobe Konzept-Beschreibung
+
+- 02.03
+    - Mockup erstellt
+    - Einteilung gemacht
+    - Concept überarbeitet
