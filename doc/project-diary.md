@@ -1,4 +1,4 @@
-# Project Diary - `<BlinkRush>`
+# Project Diary - `<Arneth, Fahradyan>`
 
 > [!Note]
 > Write excessive reports here
@@ -17,3 +17,9 @@
     - Mockup erstellt
     - Einteilung gemacht
     - Concept überarbeitet
+
+- 09.03
+    - Plan Änderung:(hat viel Zeit gebraucht, wieder Brainstorming)
+    - Die eingebaute Led verwenden wird doch nicht verwendet, weil sie durch das Grove Base Shield verdeckt wird.
+    - Wir machen das Startsignal auf den Tastern.
+    
