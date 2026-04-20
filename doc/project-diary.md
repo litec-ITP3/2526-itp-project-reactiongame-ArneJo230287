@@ -19,7 +19,10 @@
     - Concept überarbeitet
 
 - 09.03
-    - Plan Änderung:(hat viel Zeit gebraucht, wieder Brainstorming)
+    - Plan Änderung: (hat viel Zeit gebraucht, wieder Brainstorming)
     - Die eingebaute Led verwenden wird doch nicht verwendet, weil sie durch das Grove Base Shield verdeckt wird.
     - Wir machen das Startsignal auf den Tastern.
     
+- 20.04
+    - Startsignal, Zeit mitgemessen, Gewinnerund Zeit ausgegeben
+    - Concept umgeschrieben, neue Ideen gesammelt
