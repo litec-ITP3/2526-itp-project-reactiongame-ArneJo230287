@@ -18,7 +18,7 @@
 >   6. Gewinner-LED blinkt (23.03.2026)
 >   7. Reaktionszeit wird gemessen (13.04.2026)
 >   - (Meilensteine kommen möglicherweise dazu)
->   - Projektende (spätestens):20.04.2026
+>   - Projektende (spätestens):20.04.2026 --> oft ausgefallen, konnte nicht eingehalten werden
 >   8. Gewinner LED blinkt (27.04.2026)
 >   9. Display Ausgabe (27.04.2026)
 >   10. Bedienungsanleitung schreiben (11.05.2026)

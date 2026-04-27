@@ -1,15 +1,5 @@
 # Project Diary - `<Arneth, Fahradyan>`
 
-> [!Note]
-> Write excessive reports here
-> - on what you did 
-> - when 
-> - how 
-> - where you got your information from 
-> - and everything else...
->
-> This note can be deleted, and rename the file accordingly.
-
 - 23.02
     - grobe Konzept-Beschreibung
 
@@ -24,5 +14,10 @@
     - Wir machen das Startsignal auf den Tastern.
     
 - 20.04
-    - Startsignal, Zeit mitgemessen, Gewinnerund Zeit ausgegeben
+    - Startsignal, Zeit mitgemessen, Gewinner und Zeit ausgegeben in der Konsole
     - Concept umgeschrieben, neue Ideen gesammelt
+
+- 27.04
+    - Gewinnerausgabe Oled Display 
+    - Johanna: Oled Display Erweiterung gemacht 
+    - Arsen: Bedienungsanleitung und Installationsanleitung geschrieben
